@@ -1,4 +1,4 @@
-# Swedish CSS Properties
+# <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg" alt="Sweden" height="32px" width="auto"> Swedish CSS Properties
 
 > Overall CSS Properties translated into Swedish
 
