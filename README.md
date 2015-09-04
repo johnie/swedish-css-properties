@@ -4,6 +4,22 @@
 
 _Please feel free to submit a pull request if any of the words seem weird_
 
+## Usage
+
+```console
+$ npm install --save swedish-css-properties
+```
+
+```js
+/**
+ * Getting Swedish CSS Properties
+ *
+ * @return {object}
+ */
+
+var SECSS = require('swedish-css-properties');
+```
+
 ## Properties
 
 * `animation-delay`: animering-fördröjning
