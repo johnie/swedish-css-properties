@@ -157,7 +157,7 @@ module.exports = {
   'vertical-align': 'vertikal-riktning',
   'visibility': 'synlighet',
   'white-space': 'luftrum',
-  'widows': 'änkor',
+  'widows': 'horunge',
   'width': 'bredd',
   'word-break': 'ord-brytning',
   'word-spacing': 'ord-avstånd',
